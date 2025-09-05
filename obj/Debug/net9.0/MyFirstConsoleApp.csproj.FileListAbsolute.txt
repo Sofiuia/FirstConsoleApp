@@ -1,0 +1,14 @@
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.deps.json
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.runtimeconfig.json
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.dll
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.pdb
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.AssemblyInfo.cs
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.dll
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/refint/MyFirstConsoleApp.dll
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.pdb
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.genruntimeconfig.cache
+/Users/sofiatarasenko/FirstConsoleApp/FirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/ref/MyFirstConsoleApp.dll
